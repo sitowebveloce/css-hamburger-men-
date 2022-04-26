@@ -28,7 +28,7 @@ Open index.html in your browser.
 
 ### Video Guide Link
     
-[Video Guide](https://youtu.be/Vbj4PtmL0ko)
+[Video Guide](https://youtu.be/49EmGq1rn38)
 
 ## License
 
